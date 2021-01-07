@@ -1,0 +1,32 @@
+.mynav{
+	background-color: #117db8;
+	padding: 10px;
+}
+.navlink{
+	text-decoration: none;
+	color: white;
+	margin: 0px 10px 0px 0px;
+}
+.navlink:hover{
+	text-decoration: none;
+	color: #bababa;
+}
+.links{
+	padding: 10px;
+}
+#title{
+	color: white;
+	font-size:40px;
+}
+.new1{
+	background-color: #6dc3e3;
+	padding:20px;
+}
+
+h4{font-size: 100px;
+}
+
+h6{font-size: 50px;
+}
+
+p{font-size: 25px;}
